@@ -22,8 +22,9 @@ I am a passionate and dedicated computer science student, with a keen interest i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
 </p>
-📈 GitHub Stats
+<!-- 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Lubna-0&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lubna-0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+ -->
